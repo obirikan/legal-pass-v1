@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .pub-1 {
+        font-size: 243.056px;
+        fill: #fff;
+        font-family: "Microsoft Sans Serif";
+      }
+      .pub-2{
+        fill: black
+      }
+    </style>
+  </defs>
+  <rect class="pub-2" id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" x="50" y="50" width="400" height="400" rx="200" ry="200"/>
+  <text id="_" data-name="+" class="pub-1" x="178.87" y="335.344">+</text>
+</svg>

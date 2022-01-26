@@ -1,0 +1,21 @@
+hr{
+   color: black;
+   margin:30px;
+   border-top-color: black;
+}
+
+body{
+   background-color: #EFEFEF;
+}
+
+.foot-cont{
+   display: grid;
+}
+.foot{
+  margin: 30px;
+  position: relative;
+  bottom: 20px;
+}
+.state{
+   float: right;
+}

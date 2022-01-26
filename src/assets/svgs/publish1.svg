@@ -1,0 +1,17 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 450">
+<defs>
+<style>
+.pub-1 {
+        font-size: 243.056px;
+        fill: #fff;
+        font-family: "Microsoft Sans Serif";
+    }
+.pub-2{
+        fill: black
+    }
+</style></defs>
+<title>publish1</title>
+<path class="cls-1" d="M117.11,490.52" transform="translate(-25 -25)"/>
+<circle class="pub-2" cx="225" cy="225" r="225"/>
+<text class="pub-1" transform="translate(145 307.34)">+</text>
+</svg>

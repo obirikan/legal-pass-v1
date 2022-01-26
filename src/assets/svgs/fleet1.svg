@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 475 475">
+<defs><style>
+.flt-1,.flt-2{fill:none;stroke:black;stroke-miterlimit:10;}
+.flt-1{stroke-width:25px;}
+.flt-2{stroke-width:15px; fill: black}
+</style>
+</defs><title>quicknote1</title>
+<g id="Layer_1" data-name="Layer 1">
+<rect class="flt-1" x="12.5" y="12.5" width="450" height="450" rx="80"/></g>
+<g id="Layer_2" data-name="Layer 2">
+
+<rect class="flt-2" x="77.5" y="122.5" width="320" height="50" rx="25"/>
+<rect class="flt-2" x="77.5" y="211.5" width="320" height="50" rx="25"/>
+<rect class="flt-2" x="77.5" y="302.5" width="320" height="50" rx="25"/>
+</g>
+</svg>

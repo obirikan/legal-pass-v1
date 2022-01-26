@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 20px;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" x="65" y="65" width="370" height="370" rx="85" ry="85"/>
+  <rect id="Rounded_Rectangle_1-2" data-name="Rounded Rectangle 1" x="100" y="137" width="300" height="100" rx="30" ry="30"/>
+  <rect id="Rounded_Rectangle_1-3" data-name="Rounded Rectangle 1" x="100" y="262" width="300" height="100" rx="30" ry="30"/>
+</svg>

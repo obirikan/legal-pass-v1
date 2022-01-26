@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 399.44 400.44">
+<defs>
+<style>
+.srh-1,.srh-s{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:25px;}
+.srh-1{stroke-linecap:round;}
+.srh-a{stroke: black}
+.srh-r{fill: black}
+</style>
+</defs><title>search1</title><path class="srh-1" d="M117.11,490.52" transform="translate(-42.5 -42.5)"/>
+<circle class="srh-s srh-a" cx="137.5" cy="137.5" r="125"/>
+<rect class="srh-r" x="323" y="226.5" width="50" height="245" rx="25" transform="translate(-187.35 305.79) rotate(-45)"/>
+</svg>

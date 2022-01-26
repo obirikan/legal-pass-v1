@@ -1,0 +1,5 @@
+BsAppIndicator - Pin
+GoSearch - Search 
+CgMenuBoxed - Questions
+MdAddCircle - Publish
+BsMenuDown - Comment

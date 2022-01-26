@@ -1,0 +1,17 @@
+.parent-2{
+    display:grid;
+    grid-template-columns:0fr 0fr 0fr 0fr;
+    justify-content: center;
+}
+.items{
+    width: 150px;
+    padding: 10px;;
+    margin: 30px;
+    /* border: 1px solid ; */
+}
+.head{
+    margin-bottom: 5px;
+}
+ul li{
+    line-height: 40px;
+}

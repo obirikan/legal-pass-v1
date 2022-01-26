@@ -1,0 +1,14 @@
+<svg class="qqn" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 475 475"><defs>
+<style>
+.qqn-1,.qqn-2{fill:none;stroke:#929292;stroke-miterlimit:10;}
+.qqn-1{stroke-width:40px;}.qqn-2{stroke-width:15px;}
+.qqn-3{font-size:350px;font-family:MicrosoftSansSerif, Microsoft Sans Serif; fill: #929292}
+</style></defs>
+<g id="Layer_1" data-name="Layer 1">
+<rect class="qqn-1" x="12.5" y="12.5" width="450" height="450" rx="150"/>
+</g><g id="Layer_2" data-name="Layer 2"><path class="qqn-2" d="M379.89,372.49" transform="translate(-12.5 -12.5)"/>
+<path class="qqn-2" d="M120.11,372.49" transform="translate(-12.5 -12.5)"/><path class="qqn-2" d="M108.66,380" transform="translate(-12.5 -12.5)"/>
+<path class="qqn-2" d="M391.34,380" transform="translate(-12.5 -12.5)"/>
+<text class="qqn-3" transform="translate(140.17 342.69)">?</text>
+</g
+></svg>

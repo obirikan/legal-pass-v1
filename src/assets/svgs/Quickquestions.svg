@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 20px;
+      }
+
+      .cls-2 {
+        font-size: 243.056px;
+        font-family: "Microsoft Sans Serif";
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" x="65" y="65" width="370" height="370" rx="85" ry="85"/>
+  <text id="_" data-name="?" class="cls-2" x="182.87" y="338.344">?</text>
+</svg>

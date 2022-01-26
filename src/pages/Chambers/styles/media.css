@@ -1,0 +1,19 @@
+.smedia-cont{
+    border: 1px solid black;
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.img{
+   width: 30px;
+   margin: 10px;
+}
+.children{
+ display: grid;
+ grid-template-columns: repeat(4,1fr);
+}
+.child{
+  margin: auto;
+}

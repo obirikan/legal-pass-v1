@@ -1,0 +1,49 @@
+.cls-p:hover {
+  fill: oldlace;
+}
+table {
+  margin: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.hov {
+  padding: 2px;
+  /* background-color: red; */
+  border-left: 5px white solid;
+  transition: all 1s;
+  border-radius: 2px;
+  transition-timing-function: cubic-bezier(0.18, 0.89, 0.32, 1.28);
+  /* border-top-left-radius: 2; */
+  /* border-bottom-left-radius: 0; */
+}
+
+.hov:hover {
+  background-color: white;
+}
+.profile-button-wrapper {
+  width: 80%;
+  margin: auto;
+}
+.profile-img{
+  width: 100px;
+  height: 100px;
+}
+
+@media screen and (max-width: 600px) {
+  .svg-button {
+    width: 50%;
+  }
+  .svg-profile-button {
+    width: 90%;
+  }
+  .profile-button-wrapper {
+    width: 100%;
+  }
+}

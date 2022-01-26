@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 475 475">
+<defs>
+<style>
+.not-1{fill:none;stroke:#000;stroke-linecap:round;stroke-miterlimit:10;stroke-width:35px;}
+.not-2{fill: black }
+.not-3{fill: black }
+.not-4{fill:none;stroke: black;stroke-linecap:round;stroke-miterlimit:10;stroke-width:35px;}
+</style>
+</defs>
+<title>notification1</title>
+<g id="Layer_1" data-name="Layer 1">
+<path class="not-1" d="M105,475a80,80,0,0,1-80-80V105a80,80,0,0,1,80-80H395a80,80,0,0,1,80,80V395a80,80,0,0,1-80,80" transform="translate(-12.5 -12.5)"/>
+<!-- <path class="not-4" d="M117.11,490.52" transform="translate(-12.5 -12.5)"/> -->
+<path class="not-4" d="M392.5,474.81,259.61,257.56a11.43,11.43,0,0,0-19.22,0L107.5,474.81" transform="translate(-12.5 -12.5)"/>
+</g>
+<g id="Layer_2" data-name="Layer 2">
+<rect class="not-2" x="77.5" y="66.5" width="320" height="45" rx="22.5"/>
+<rect class="not-3" x="77.5" y="150.5" width="320" height="45" rx="22.5"/>
+</g>
+</svg>
